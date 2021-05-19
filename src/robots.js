@@ -1,38 +1,38 @@
 export const robots = [
   {
     id:1,
-    name:"Tirth Shah",
-    username:"Tirthshah147",
-    email:"tirthshah147@gmail.com"
+    name:"Amit Shah",
+    username:"amitshah147",
+    email:"amitshah147@gmail.com"
   },
   {
     id:2,
-    name:"Arafat Shah",
-    username:"arfu147",
-    email:"arfu@gmail.com"
+    name:"kiran",
+    username:"kittu2108",
+    email:"kiran@gmail.com"
   },
   {
     id:3,
-    name:"Rekha Shah",
-    username:"rekhashah147",
-    email:"rekha@gmail.com"
+    name:"warner",
+    username:"warner335",
+    email:"warner@gmail.com"
   },
   {
     id:4,
-    name:"Aman Shah",
-    username:"amanhshah147",
-    email:"aman147@gmail.com"
+    name:"rohit",
+    username:"hitman264",
+    email:"rohit264@gmail.com"
   },
   {
     id:5,
-    name:"Rohit Shah",
-    username:"rohit147",
-    email:"rohit@gmail.com"
+    name:"arjun",
+    username:"allu26",
+    email:"allu26@gmail.com"
   },
   {
     id:6,
-    name:"Dhanashree Shah",
-    username:"dhanashree147",
-    email:"dhanashree@gmail.com"
+    name:"Dhoni",
+    username:"dhoni007",
+    email:"dhoni007@gmail.com"
   }
 ]
